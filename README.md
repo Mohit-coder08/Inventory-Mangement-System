@@ -59,7 +59,7 @@ Smart Inventory Management System/
 
 ### Inventory Management
 
-![Inventory Management](inventory_management.png)
+![Inventory Management](inventorymanagement.png)
 
 ### Billing & Reports
 
