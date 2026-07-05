@@ -47,25 +47,25 @@ Smart Inventory Management System/
 
 ### Login Screen
 
-![Login](screenshots/authentication1.png)
+![Login](authentication1.png)
 
 ### Main Menu
 
-![Main Menu](screenshots/main_menu.png)
+![Main Menu](main_menu.png)
 
 ### Product Management
 
-![Product Management](screenshots/product.png)
+![Product Management](product.png)
 
 ### Inventory Management
 
-![Inventory Management](screenshots/inventory_management.png)
+![Inventory Management](inventory_management.png)
 
 ### Billing & Reports
 
-![Billing](screenshots/billing.png)
-![Sales](screenshots/sales.png)
-![Report](screenshots/report.png)
+![Billing](billing.png)
+![Sales](sales.png)
+![Report](report.png)
 
 ---
 
