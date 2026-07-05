@@ -64,6 +64,8 @@ Smart Inventory Management System/
 ### Billing & Reports
 
 ![Billing](screenshots/billing.png)
+![Sales](screenshots/sales.png)
+![Report](screenshots/report.png)
 
 ---
 
