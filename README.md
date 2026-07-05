@@ -47,7 +47,7 @@ Smart Inventory Management System/
 
 ### Login Screen
 
-![Login](authentication1.png)
+![Login](login.png)
 
 ### Main Menu
 
